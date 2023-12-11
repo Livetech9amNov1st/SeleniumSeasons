@@ -1,0 +1,27 @@
+Complete the assignments and send to below email id
+riyazsirnotes@gmail.com
+
+Assignment 1 :
+
+https://www.amazon.in/
+
+click on "Sell on Amazon" link
+
+and print the title 
+
+and the display status of button/link "Start selling"
+
+----------------------------------------------------------
+
+Assignment 2 :
+
+https://www.facebook.com/
+
+
+click on "Create new account" ( hint use : linktext)
+
+after clicking use Thread.sleep(3000);
+
+Select your Birthday
+
+-------------------------------------------------------------
