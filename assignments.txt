@@ -25,3 +25,15 @@ after clicking use Thread.sleep(3000);
 Select your Birthday
 
 -------------------------------------------------------------
+
+Assignment 3:
+
+https://www.kvb.co.in/
+
+MOuse hover to "Personal" 
+
+MOuse hover to "Loans"
+
+ then click "two wheeler loan"
+
+-------------------------------------------------------------
