@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-20T10:17:04 IST" name="Default suite" finished-at="2023-12-20T10:17:28 IST" duration-ms="24066">
+  <suite started-at="2023-12-22T10:05:40 IST" name="Default suite" finished-at="2023-12-22T10:05:53 IST" duration-ms="13741">
     <groups>
     </groups>
-    <test started-at="2023-12-20T10:17:04 IST" name="Default test" finished-at="2023-12-20T10:17:28 IST" duration-ms="24066">
-      <class name="dec20th.ScreenshotDemo">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:dec20th.ScreenshotDemo@6c2ed0cd]" started-at="2023-12-20T10:17:04 IST" name="setUp" finished-at="2023-12-20T10:17:24 IST" duration-ms="20303" status="PASS">
+    <test started-at="2023-12-22T10:05:40 IST" name="Default test" finished-at="2023-12-22T10:05:53 IST" duration-ms="13741">
+      <class name="dec22nd.RadioButtons2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dec22nd.RadioButtons2@6c2ed0cd]" started-at="2023-12-22T10:05:40 IST" name="setUp" finished-at="2023-12-22T10:05:44 IST" duration-ms="4087" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="screenshotTest()[pri:0, instance:dec20th.ScreenshotDemo@6c2ed0cd]" started-at="2023-12-20T10:17:24 IST" name="screenshotTest" finished-at="2023-12-20T10:17:25 IST" duration-ms="470" status="PASS">
+        <test-method signature="radioButtonTest()[pri:0, instance:dec22nd.RadioButtons2@6c2ed0cd]" started-at="2023-12-22T10:05:44 IST" name="radioButtonTest" finished-at="2023-12-22T10:05:50 IST" duration-ms="6313" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- screenshotTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:dec20th.ScreenshotDemo@6c2ed0cd]" started-at="2023-12-20T10:17:25 IST" name="teardown" finished-at="2023-12-20T10:17:28 IST" duration-ms="3252" status="PASS">
+        </test-method> <!-- radioButtonTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:dec22nd.RadioButtons2@6c2ed0cd]" started-at="2023-12-22T10:05:50 IST" name="teardown" finished-at="2023-12-22T10:05:53 IST" duration-ms="3299" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- dec20th.ScreenshotDemo -->
+      </class> <!-- dec22nd.RadioButtons2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
